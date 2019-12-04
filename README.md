@@ -1,2 +1,21 @@
-# pioledex
-Elixir library for working with the PIOLED pi hat from adafruit
+# Pioledex
+
+**TODO: Add description**
+
+## Installation
+
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `pioledex` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:pioledex, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/pioledex](https://hexdocs.pm/pioledex).
+
